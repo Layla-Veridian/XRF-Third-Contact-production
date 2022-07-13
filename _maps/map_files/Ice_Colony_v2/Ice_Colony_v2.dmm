@@ -32500,6 +32500,12 @@
 	dir = 1
 	},
 /area/ice_colony/exterior/surface/landing_pad2)
+"sFx" = (
+/obj/machinery/cryopod,
+/turf/open/floor/tile/darkgreen/darkgreen2{
+	dir = 8
+	},
+/area/ice_colony/surface/dorms)
 "sFQ" = (
 /obj/effect/landmark/lv624/fog_blocker/xeno_spawn,
 /turf/closed/ice_rock/corners{
@@ -33037,6 +33043,13 @@
 "xSc" = (
 /turf/closed/ice/corner,
 /area/ice_colony/exterior/surface/landing_pad2)
+"xSg" = (
+/obj/structure/disposalpipe/segment,
+/obj/machinery/cryopod/right,
+/turf/open/floor/tile/darkgreen/darkgreen2{
+	dir = 4
+	},
+/area/ice_colony/surface/dorms)
 "xTa" = (
 /obj/effect/turf_underlay/icefloor,
 /turf/closed/ice/thin/corner,
@@ -57091,12 +57104,12 @@ aqS
 aro
 arG
 arR
-arG
-arG
+sFx
+sFx
 asT
-arG
-arG
-arG
+sFx
+sFx
+sFx
 arG
 avq
 avX
@@ -57861,13 +57874,13 @@ aJo
 aqU
 arr
 arJ
-arJ
-arJ
-arJ
+xSg
+xSg
+xSg
 asU
-arJ
-arJ
-arJ
+xSg
+xSg
+xSg
 auO
 avt
 awa

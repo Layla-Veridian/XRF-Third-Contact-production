@@ -4787,6 +4787,7 @@
 /area/lv624/ground/compound/se)
 "ux" = (
 /obj/effect/decal/cleanable/blood,
+/obj/machinery/cryopod/right,
 /turf/open/floor/wood,
 /area/crew_quarters/sleep/bedrooms)
 "uy" = (
@@ -5018,6 +5019,10 @@
 /obj/effect/landmark/nuke_spawn,
 /turf/open/floor/prison/yellow,
 /area/lv624/lazarus/engineering)
+"Sg" = (
+/obj/machinery/cryopod/right,
+/turf/open/floor/wood,
+/area/crew_quarters/sleep_male)
 "Sw" = (
 /obj/effect/landmark/dropship_start_location,
 /turf/open/ground,
@@ -11267,7 +11272,7 @@ ns
 pg
 qQ
 pu
-pC
+Sg
 pC
 pf
 lg

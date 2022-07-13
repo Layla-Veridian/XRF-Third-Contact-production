@@ -4436,6 +4436,14 @@
 	},
 /turf/open/floor/plating/asteroidfloor,
 /area/outpost/arrivals)
+"yN" = (
+/obj/structure/cable,
+/obj/machinery/atmospherics/pipe/simple/green/hidden,
+/obj/machinery/cryopod,
+/turf/open/floor/tile/dark/brown2{
+	dir = 8
+	},
+/area/outpost/dormitories)
 "yT" = (
 /obj/machinery/light/small,
 /turf/open/floor/tile/dark/brown2{
@@ -33396,9 +33404,9 @@ rt
 RE
 ET
 Nr
-LX
-LX
-LX
+yN
+yN
+yN
 Ba
 jz
 LX

@@ -8059,6 +8059,7 @@
 	name = "Storm Shutters";
 	pixel_x = -32
 	},
+/obj/machinery/cryopod,
 /turf/open/floor,
 /area/bigredv2/outside/dorms)
 "aDR" = (
@@ -19084,6 +19085,10 @@
 	},
 /turf/closed/mineral/bigred,
 /area/bigredv2/caves/west)
+"dWy" = (
+/obj/machinery/cryopod,
+/turf/open/floor,
+/area/bigredv2/outside/dorms)
 "dWD" = (
 /obj/effect/landmark/xeno_silo_spawn,
 /turf/open/floor/plating/ground/mars/random/cave,
@@ -19746,6 +19751,11 @@
 /obj/machinery/door/poddoor/timed_late/containment/landing_zone/lz2,
 /turf/open/floor/plating/ground/mars/dirttosand,
 /area/bigredv2/outside/sw)
+"jGU" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/cryopod,
+/turf/open/floor,
+/area/bigredv2/outside/dorms)
 "jKb" = (
 /obj/structure/sign/safety/blast_door,
 /turf/open/floor/tile/dark/purple2/corner{
@@ -42743,9 +42753,9 @@ azO
 asJ
 asJ
 aua
-asJ
+dWy
 aDQ
-aua
+jGU
 aws
 pyW
 aHD

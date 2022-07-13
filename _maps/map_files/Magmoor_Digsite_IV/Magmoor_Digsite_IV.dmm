@@ -23699,6 +23699,15 @@
 	},
 /turf/open/floor/tile/dark2,
 /area/magmoor/civilian/chapel)
+"rYL" = (
+/obj/structure/closet/walllocker/medical_wall/full{
+	dir = 8
+	},
+/obj/machinery/cryopod/right,
+/turf/open/floor/tile/blue/taupeblue{
+	dir = 4
+	},
+/area/magmoor/civilian/dorms)
 "rYX" = (
 /obj/structure/barricade/guardrail,
 /turf/open/lavaland/lava/lpiece{
@@ -28232,6 +28241,16 @@
 	dir = 1
 	},
 /area/magmoor/compound/east)
+"vgn" = (
+/obj/machinery/atmospherics/components/unary/vent_pump/layer1{
+	dir = 8;
+	on = 1
+	},
+/obj/machinery/cryopod/right,
+/turf/open/floor/tile/blue/taupeblue{
+	dir = 4
+	},
+/area/magmoor/civilian/dorms)
 "vgo" = (
 /turf/open/lavaland/lava/side{
 	dir = 1
@@ -30858,6 +30877,12 @@
 	dir = 8
 	},
 /area/magmoor/cave/east)
+"wOg" = (
+/obj/machinery/cryopod/right,
+/turf/open/floor/tile/blue/taupeblue{
+	dir = 4
+	},
+/area/magmoor/civilian/dorms)
 "wOo" = (
 /obj/machinery/atmospherics/pipe/simple/scrubbers/visible{
 	dir = 1
@@ -48948,9 +48973,9 @@ wGk
 xYQ
 xYQ
 nOy
-vCo
-xYQ
-vYD
+vgn
+wOg
+rYL
 xYQ
 xYQ
 uDA

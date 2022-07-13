@@ -6407,6 +6407,11 @@
 /obj/structure/table/reinforced,
 /turf/open/floor/prison/kitchen,
 /area/barren/civilian/cook)
+"Jh" = (
+/obj/structure/cable,
+/obj/machinery/cryopod/right,
+/turf/open/floor,
+/area/barren/civilian)
 "Jj" = (
 /obj/structure/barricade/guardrail{
 	dir = 4;
@@ -38693,11 +38698,11 @@ qZ
 qm
 yw
 LE
-wA
-wA
+Jh
+Jh
 LE
-wA
-wA
+Jh
+Jh
 LE
 Vm
 fO

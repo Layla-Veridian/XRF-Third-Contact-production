@@ -993,6 +993,7 @@
 	dir = 8
 	},
 /obj/structure/cable,
+/obj/machinery/cryopod/right,
 /turf/open/floor/tile/purple/taupepurple{
 	dir = 9
 	},
@@ -7237,6 +7238,7 @@
 "aQh" = (
 /obj/structure/flora/pottedplant,
 /obj/item/trash/cheesie,
+/obj/machinery/cryopod,
 /turf/open/floor/tile/blue/taupebluecorner,
 /area/lv624/lazarus/sleep_male)
 "aQk" = (
@@ -13279,6 +13281,12 @@
 	dir = 4
 	},
 /area/lv624/lazarus/quartstorage/outdoors)
+"fzI" = (
+/obj/machinery/cryopod/right,
+/turf/open/floor/tile/purple/taupepurple{
+	dir = 9
+	},
+/area/lv624/lazarus/sleep_female)
 "fBJ" = (
 /obj/structure/fence,
 /turf/open/floor/plating/ground/dirtgrassborder,
@@ -16886,6 +16894,13 @@
 	},
 /turf/closed/gm/dense,
 /area/lv624/lazarus/quartstorage/outdoors)
+"wQs" = (
+/obj/machinery/light{
+	dir = 1
+	},
+/obj/machinery/cryopod,
+/turf/open/floor/tile/blue/taupebluecorner,
+/area/lv624/lazarus/sleep_male)
 "wSv" = (
 /obj/effect/landmark/weed_node,
 /turf/open/floor,
@@ -36937,7 +36952,7 @@ dRM
 dRM
 aES
 aMA
-aQW
+wQs
 aPl
 aPl
 aQZ
@@ -40519,9 +40534,9 @@ aJF
 aHZ
 aMH
 eGR
-aPr
+fzI
 afN
-aPr
+fzI
 aSu
 aTj
 aTM
