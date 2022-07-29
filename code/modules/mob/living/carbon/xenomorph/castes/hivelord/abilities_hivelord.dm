@@ -10,9 +10,10 @@
 	plasma_cost = 100
 	buildable_structures = list(
 		/turf/closed/wall/resin/regenerating/thick,
-		/obj/effect/alien/resin/sticky,
+		/turf/closed/wall/resin/membrane,
 		/obj/structure/mineral_door/resin/thick,
-		/obj/structure/bed/nest,
+		/obj/effect/alien/resin/sticky,
+		/obj/structure/bed/nest
 	)
 
 /datum/action/xeno_action/activable/secrete_resin/hivelord/use_ability(atom/A)
